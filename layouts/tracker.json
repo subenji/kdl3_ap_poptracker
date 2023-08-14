@@ -1,7 +1,7 @@
 ﻿//sets the trackers layout
 //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#layouts 
 {
-    "tracker_default": {
+    /*"tracker_default": {
         "type": "container",
         "background": "#000000",
         "content": {
@@ -28,14 +28,14 @@
                     "type": "tabbed",
                     "tabs": [
                         {
-                            "title": "Map 1",
+                            "title": "Overview",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "map1"
+                                    "overview"
                                 ]
                             }
-                        },
+                        }/*,
                         {
                             "title": "Map 2",
                             "content": {
@@ -44,13 +44,13 @@
                                     "map2"
                                 ]
                             }
-                        }
+                        }*//*
                     ]
                 }
             ]
         }
-    },
-    "tracker_horizontal": {
+    },*/
+    "tracker_default": {
         "type": "container",
         "background": "#000000",
         "content": {
@@ -79,14 +79,14 @@
                     "type": "tabbed",
                     "tabs": [
                         {
-                            "title": "Map 1",
+                            "title": "Overview",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "map1"
+                                    "overview"
                                 ]
                             }
-                        },
+                        }/*,
                         {
                             "title": "Map 2",
                             "content": {
@@ -95,7 +95,7 @@
                                     "map2"
                                 ]
                             }
-                        }
+                        }*/
                     ]
                 }
             ]

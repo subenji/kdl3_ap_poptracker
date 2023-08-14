@@ -2,15 +2,15 @@
 // it contains basic information about your pack
 // for more info on the manifest check: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#manifest
 {
-    "name": "Template Pack for PopTracker",
-    "game_name": "<put your game title here>",
+    "name": "Kirby's Dream Land 3 AP",
+    "game_name": "Kirby's Dream Land 3",
     "package_version": "1.0.0.0",
-    "package_uid": "template_pack",
-    "platform": "snes", //enables SNES memory autotracking interface - remove/change if not needed
-    "author": "Cyb3R",
+    "package_uid": "kdl3_ap",
+    "platform": "", //enables SNES memory autotracking interface - remove/change if not needed
+    "author": "DirtyBenji",
     "variants": {
         "standard": {
-            "display_name": "Map Tracker",
+            "display_name": "Basic Tracker",
             "flags": [
                 "ap" //enables AP autotracking interface - remove if not needed
             ]

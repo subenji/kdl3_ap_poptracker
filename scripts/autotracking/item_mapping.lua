@@ -1,9 +1,17 @@
--- use this file to map the AP item ids to your items
--- first value is the code of the target item and the second is the item type (currently only "toggle", "progressive" and "consumable" but feel free to expand for your needs!)
--- here are the SM items as an example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/scripts/autotracking/item_mapping.lua
 ITEM_MAPPING = {
-    [00000] = {"toggle", "toggle"},
-    [00001] = {"progressive", "progressive"},
-    [00002] = {"consumable", "consumable"},
-    [00003] = {"progressive_toggle", "progressive"} -- progressive_toggle should work with the progressive type but might need additional code to work for your needs
+    [7798785] = {"burning", "toggle"},
+    [7798786] = {"stone", "toggle"},
+    [7798787] = {"ice", "toggle"},
+    [7798788] = {"needle", "toggle"},
+    [7798789] = {"clean", "toggle"},
+    [7798790] = {"parasol", "toggle"},
+    [7798791] = {"spark", "toggle"},
+    [7798792] = {"cutter", "toggle"},
+    [7798800] = {"rick", "toggle"},
+    [7798801] = {"kine", "toggle"},
+    [7798802] = {"coo", "toggle"},
+    [7798803] = {"nago", "toggle"},
+    [7798804] = {"chuchu", "toggle"},
+    [7798805] = {"pitch", "toggle"},
+    [7798816] = {"heartstar", "consumable"},
 }

@@ -17,12 +17,26 @@
                         "h_alignment": "left",
                         "rows": [
                             [
-                                "toggle",
-                                "progressive"           
+                                "burning",
+                                "stone",
+                                "ice",
+                                "needle",
+                                "clean",
+                                "parasol",
+                                "spark",
+                                "cutter",
+                                "",
+                                "",
+                                "heartstar"
+
                             ],
                             [
-                                "consumable",
-                                "progressive_toggle"
+                                "rick",
+                                "kine",
+                                "coo",
+                                "nago",
+                                "chuchu",
+                                "pitch"
                             ]
                         ]
                     }

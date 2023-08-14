@@ -1,56 +1,96 @@
-//more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
 [
     {
-        "name": "Toggle",
+        "name": "Burning",
         "type": "toggle",
-        "img": "images/items/toggle.png",
-        "codes": "toggle"
+        "img": "/images/items/burning.png",
+        "codes": "burning"
     },
     {
-        "name": "Progressive",
-        "type": "progressive",
-        "allow_disabled": true,
-        "initial_stage_idx": 0,
-        "stages": [
-            {
-                "img": "images/items/progressive.png",
-                "codes": "progressive",
-                "inherit_codes": false
-            },
-            {
-                "img": "images/items/progressive_2.png",
-                "codes": "progressive_2",
-                "inherit_codes": false
-            }
-        ]
+        "name": "Stone",
+        "type": "toggle",
+        "img": "/images/items/stone.png",
+        "codes": "stone"
     },
     {
-        "name": "Consumable",
+        "name": "Ice",
+        "type": "toggle",
+        "img": "/images/items/ice.png",
+        "codes": "ice"
+    },
+    {
+        "name": "Needle",
+        "type": "toggle",
+        "img": "/images/items/needle.png",
+        "codes": "needle"
+    },
+    {
+        "name": "Clean",
+        "type": "toggle",
+        "img": "/images/items/clean.png",
+        "codes": "clean"
+    },
+    {
+        "name": "Parasol",
+        "type": "toggle",
+        "img": "/images/items/parasol.png",
+        "codes": "parasol"
+    },
+    {
+        "name": "Spark",
+        "type": "toggle",
+        "img": "/images/items/spark.png",
+        "codes": "spark"
+    },
+    {
+        "name": "Cutter",
+        "type": "toggle",
+        "img": "/images/items/cutter.png",
+        "codes": "cutter"
+    },
+    {
+        "name": "Rick",
+        "type": "toggle",
+        "img": "/images/items/rick.png",
+        "codes": "rick"
+    },
+    {
+        "name": "Kine",
+        "type": "toggle",
+        "img": "/images/items/kine.png",
+        "codes": "kine"
+    },
+    {
+        "name": "Coo",
+        "type": "toggle",
+        "img": "/images/items/coo.png",
+        "codes": "coo"
+    },
+    {
+        "name": "Nago",
+        "type": "toggle",
+        "img": "/images/items/nago.png",
+        "codes": "nago"
+    },
+    {
+        "name": "ChuChu",
+        "type": "toggle",
+        "img": "/images/items/chuchu.png",
+        "codes": "chuchu"
+    },
+    {
+        "name": "Pitch",
+        "type": "toggle",
+        "img": "/images/items/pitch.png",
+        "codes": "pitch"
+    },
+    {
+        "name": "Heart Star",
         "type": "consumable",
-        "img": "images/items/consumable.png",
-        "max_quantity": 8,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_background": "#000000",
-        "overlay_font_size": 8,
-        "codes": "consumable"
-    },
-    {
-        "name": "Progressive Toggle",
-        "type": "progressive_toggle",
-        "initial_stage_idx": 0,
-        "stages": [
-            {
-                "img": "images/items/progressive.png",
-                "codes": "progressive_toggle",
-                "inherit_codes": false
-            },
-            {
-                "img": "images/items/progressive_2.png",
-                "codes": "progressive_toggle_2",
-                "inherit_codes": false
-            }
-        ]
+        "img": "/images/items/heartstar.png",
+        "codes": "heartstar",
+        "min_quantity": 0,
+        "max_quantity": 30,
+        "overlay_font_size": 18
+
     }
 ]

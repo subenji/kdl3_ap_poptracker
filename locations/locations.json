@@ -1,57 +1,977 @@
 [
     {
-        "name": "Example Parent",
-        "children": [
+        "name": "Grass Land 1 - Complete",
+        "sections": [
             {
-                "name": "Example Location 1",
-                "access_rules": [
-                    //read as: progressive_2 or toggle                    
-                    "progressive_2",
-                    "toggle"                    
-                ],
-                "sections": [
-                    {
-                        "name": "Example Section 1",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Example Section 2",
-                        "item_count": 3
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "map1",
-                        "x": 1750,
-                        "y": 700
-                    },
-                    {
-                        "map": "map2",
-                        "x": 1000,
-                        "y": 500
-                    }
-                ]
-            },
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
             {
-                "name": "Example Location 2",
-                "access_rules": [
-                    //read as: progressive_toggle_2 and has more then 4 consumable
-                    "progressive_toggle_2, $has_more_then_n_consumable|4"                   
-                ],
-                "sections": [
-                    {
-                        "name": "Example Section 1",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "map1",
-                        "x": 1500,
-                        "y": 400
-                    }
-                ]
-            }            
+                "map": "overview",
+                "x": 50,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Grass Land 2 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 118,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Grass Land 3 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 186,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Grass Land 4 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 254,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Grass Land 5 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 322,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Grass Land 6 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 390,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Ripple Field 1 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 526,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Ripple Field 2 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 594,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Ripple Field 3 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 662,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Ripple Field 4 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 730,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Ripple Field 5 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 798,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Ripple Field 6 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 866,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Sand Canyon 1 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1002,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Sand Canyon 2 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1070,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Sand Canyon 3 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1138,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Sand Canyon 4 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1206,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Sand Canyon 5 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1274,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Sand Canyon 6 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1342,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Cloudy Park 1 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1478,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Cloudy Park 2 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1546,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Cloudy Park 3 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1614,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Cloudy Park 4 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1682,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Cloudy Park 5 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1750,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Cloudy Park 6 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1818,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Iceberg 1 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1954,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Iceberg 2 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 2022,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Iceberg 3 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 2090,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Iceberg 4 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 2158,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Iceberg 5 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 2226,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Iceberg 6 - Complete",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 2294,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "name": "Grass Land 1 - Tulip",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 50,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Grass Land 2 - Muchimuchi",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 118,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Grass Land 3 - Pitcherman",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 186,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Grass Land 4 - Chao & Goku",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 254,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Grass Land 5 - Mine",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 322,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Grass Land 6 - Pierre",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 390,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Ripple Field 1 - Kamuribana",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 526,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Ripple Field 2 - Bakasa",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 594,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Ripple Field 3 - Elieel",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 662,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Ripple Field 4 - Toad & Little Toad",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 730,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Ripple Field 5 - Mama Pitch",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 798,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Ripple Field 6 - HB-002",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 866,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Sand Canyon 1 - Geromuzudake",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1002,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Sand Canyon 2 - Auntie",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1070,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Sand Canyon 3 - Caramello",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1138,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Sand Canyon 4 - Donbe & Hikari",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1206,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Sand Canyon 5 - Nyupun",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1274,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Sand Canyon 6 - Professor Hector & R.O.B",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1342,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Cloudy Park 1 - Hibanamodoki",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1478,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Cloudy Park 2 - Piyo & Keko",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1546,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Cloudy Park 3 - Mr. Ball",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1614,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Cloudy Park 4 - Mikarin & Kagami Mocchi",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1682,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Cloudy Park 5 - Pick",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1750,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Cloudy Park 6 - HB-007",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1818,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Iceberg 1 - Kogoesou",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1954,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Iceberg 2 - Samus",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 2022,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Iceberg 3 - Chef Kawasaki",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 2090,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Iceberg 4 - Name",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 2158,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Iceberg 5 - Shiro",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 2226,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Iceberg 6 - Angel",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 2294,
+                "y": 118
+            }
+        ]
+    },
+    {
+        "name": "Grass Land - Boss (Whispy Woods) Purified",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 390,
+                "y": 200
+            }
+        ]
+    },
+    {
+        "name": "Ripple Field - Boss (Acro) Purified",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 866,
+                "y": 200
+            }
+        ]
+    },
+    {
+        "name": "Sand Canyon - Boss (Pon & Con) Purified",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1342,
+                "y": 200
+            }
+        ]
+    },
+    {
+        "name": "Cloudy Park - Boss (Ado) Purified",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 1818,
+                "y": 200
+            }
+        ]
+    },
+    {
+        "name": "Iceberg - Boss (Dedede) Purified",
+        "sections": [
+            {
+                "name": "Clear"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "overview",
+                "x": 2294,
+                "y": 200
+            }
         ]
     }
 ]

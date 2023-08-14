@@ -47,7 +47,7 @@
                 "v_alignment": "center",
                 "key": "shared_item_grid"
               }
-            },
+            }/*,
             /*{
               "type": "group",
               "header": "Doors",
@@ -60,7 +60,7 @@
                 "key": "doors_item_grid"
               }
             },*/
-            {
+            /*{
               "type": "group",
               "header": "Transitions",
               "dock": "left",
@@ -71,7 +71,7 @@
                 "v_alignment": "center",
                 "key": "transitions_item_grid"
               }
-            }
+            }*/
           ]
         }
       ]
